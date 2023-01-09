@@ -1,0 +1,60 @@
+
+h1{
+    color: blue;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Sofia Sans Extra Condensed', sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+fieldset{
+    margin-bottom: 30px;
+    background-color: lightsteelblue;
+    border: solid 2px
+}
+
+hr{
+    width: 830px;
+}
+
+.info{
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+
+img{
+    border: 1px solid black;
+    border-radius: 200px;
+    width: 100%;
+}
+
+body{
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    background-color: lightslategrey;
+}
+
+legend{
+    border: solid 1px;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: lightblue;
+    width: fit-content;
+}
+
+#navegacion{
+    text-align: center;
+}
+
+.button {
+    padding: 1rem;
+    background-color: rgb(146, 224, 28) ;
+    color: #fff;
+    border-radius: 10px;
+    width: fit-content;
+}
+
